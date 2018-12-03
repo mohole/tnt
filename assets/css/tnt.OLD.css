@@ -1,0 +1,40 @@
+:root {
+    --background-color: red;
+    --background-color-mod: green;
+    --foreground-color: white;
+    --link-color: yellow;
+    --widget-padding: 20px;
+}
+
+.tnt {
+    background: var(--background-color);
+    color: var(--foreground-color);
+    padding: var(--widget-padding);
+    width: 100%;
+}
+
+.tnt__item {
+    padding-right: var(--widget-padding);
+}
+
+.tnt__item::after {
+    content: '|';
+    padding-left: var(--widget-padding);
+}
+
+.tnt a {
+    color: var(--link-color);
+}
+
+.tnt a:hover {
+    color: var(--foreground-color);
+}
+
+.tnt--mod {
+    background: var(--background-color-mod);
+}
+
+.marquee {
+    width: 100%;
+    overflow: hidden;
+}

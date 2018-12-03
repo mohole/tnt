@@ -1,0 +1,11 @@
+:root {
+    --background-color: red;
+    --background-color-mod: green;
+    --foreground-color: white;
+    --link-color: yellow;
+    --widget-padding: 20px;
+}
+
+.tnt {
+    background-color: var(--background-color);
+}
