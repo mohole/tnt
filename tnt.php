@@ -6,6 +6,8 @@
  * Version: 1.0.0
  * Author: Scuola Mohole
  * Author URI: https://scuola.mohole.it
+ * License:           GPL-3.0
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 // termino l'esecuzione se il plugin è richiamato direttamente
