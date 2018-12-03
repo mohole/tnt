@@ -3,9 +3,9 @@ TNT is a school workshop by Scuola Mohole Team - It's a WordPress plugin, open s
 
 <h3>Teacher:</h3>
 Simone Alati
-<br>
+
 <h3>Students:</h3>
-<br>
+
 Fabio Pergami Feroldi
 <br>
 Umberto Tonella
