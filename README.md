@@ -1,10 +1,10 @@
 # tnt
 TNT is a school workshop by Scuola Mohole Team - It's a WordPress plugin, open source. TNT is for "Tiny News Ticker"
 
-<h3>Teacher:</h3>
-Simone Alati
+<h3>the Teacher:</h3>
+Simone Alati for <a href="https://scuola.mohole.it">Scuola Mohole - Web & Apps</a>
 
-<h3>Students:</h3>
+<h3>the Students:</h3>
 
 Fabio Pergami Feroldi
 <br>
