@@ -1,4 +1,3 @@
-
 <?php
 /*
 Plugin Name: Tiny New Ticker (TNT)
